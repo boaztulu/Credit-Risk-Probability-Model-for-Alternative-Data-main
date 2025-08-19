@@ -1,0 +1,14 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+fastapi        
+uvicorn
+mlflow
+xverse
+woe
+pytest
+flake8
+fastapi>=0.111
+uvicorn[standard]>=0.30
+pydantic>=2.7
+flask   

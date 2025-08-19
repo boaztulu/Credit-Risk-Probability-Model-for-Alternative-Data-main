@@ -1,0 +1,22 @@
+artifact_path: /content/drive/MyDrive/Tenx program/week-5/mlruns/0/models/m-12cbbab279364690981ca8432862f694/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.1
+model_id: m-12cbbab279364690981ca8432862f694
+model_size_bytes: 1121
+model_uuid: m-12cbbab279364690981ca8432862f694
+prompts: null
+run_id: 132c4c5640ab42b7be22b12190c5a581
+utc_time_created: '2025-06-30 06:13:34.678149'

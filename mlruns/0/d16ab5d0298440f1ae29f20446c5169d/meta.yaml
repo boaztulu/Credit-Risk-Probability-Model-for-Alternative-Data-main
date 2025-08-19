@@ -1,0 +1,14 @@
+artifact_uri: /content/drive/MyDrive/Tenx program/week-5/mlruns/0/d16ab5d0298440f1ae29f20446c5169d/artifacts
+end_time: 1751264026927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d16ab5d0298440f1ae29f20446c5169d
+run_name: gb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751264022636
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,5 @@
+# .flake8  (put this at repo root)
+[flake8]
+max-line-length = 100        # allow lines up to 100 chars
+extend-ignore = W291,E501    # ignore trailing-space & line-length warnings
+select = E,F                 # still fail on real Errors & Fatals

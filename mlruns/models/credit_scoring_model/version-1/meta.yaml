@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1751264027208
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1751264027208
+metrics: null
+model_id: m-12cbbab279364690981ca8432862f694
+name: credit_scoring_model
+params: null
+run_id: 132c4c5640ab42b7be22b12190c5a581
+run_link: null
+source: models:/m-12cbbab279364690981ca8432862f694
+status: READY
+status_message: null
+storage_location: /content/drive/MyDrive/Tenx program/week-5/mlruns/0/models/m-12cbbab279364690981ca8432862f694/artifacts
+user_id: null
+version: 1

@@ -1,0 +1,10 @@
+artifact_location: /content/drive/MyDrive/Tenx program/week-5/mlruns/0/models/m-12cbbab279364690981ca8432862f694/artifacts
+creation_timestamp: 1751264014375
+experiment_id: '0'
+last_updated_timestamp: 1751264022558
+model_id: m-12cbbab279364690981ca8432862f694
+model_type: null
+name: model
+source_run_id: 132c4c5640ab42b7be22b12190c5a581
+status: 2
+status_message: null
